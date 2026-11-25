@@ -2,6 +2,8 @@
 
 A deterministic Python entry for [The Funniest Office Joke, Judged Head to Head](https://make.fun/bounty/u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c) on make.fun. The program writes a single one-line office joke — a team-building escape room escaped in nine minutes, because years of dodging the manager was perfect training — to `entry.txt`, with no trailing newline, ready for head-to-head judging.
 
+Entry note: the joke lands on a real office ritual — a team-building escape room escaped in nine minutes thanks to years of manager-dodging practice.
+
 ## Running
 
 Run the compressed entrypoint `main.py` (built from the readable `entry_source.py` with the official make.fun compress command):
